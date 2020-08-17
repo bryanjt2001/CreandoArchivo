@@ -9,3 +9,14 @@ Untracked files:
         Archivo.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoprueba>git add Archivo.txt 
+# o git add.
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoprueba>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   Archivo.txt
